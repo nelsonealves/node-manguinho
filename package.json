@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nelsonealves/node-manguinho/issues"
   },
-  "homepage": "https://github.com/nelsonealves/node-manguinho#readme"
+  "homepage": "https://github.com/nelsonealves/node-manguinho#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
 }
